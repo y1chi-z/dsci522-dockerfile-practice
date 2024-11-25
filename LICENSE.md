@@ -1,5 +1,7 @@
 # Software
 
+NOTE: This only covers the code I copied from Tiffany A. Timbers (docker-publish.yml).
+
 Except where otherwise noted, the example programs and other software
 provided in the `dsci522-dockerfile-practice` repository are made available under the
 MIT license.
